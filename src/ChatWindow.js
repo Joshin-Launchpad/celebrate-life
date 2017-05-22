@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Item from './Item';
-import Button from './Button';
 import './index.css';
 // import Button from './Button'
 // import Emoji from './Emoji';

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Timer from './Timer'
-import {emojify} from 'react-emojione';
+// import {emojify} from 'react-emojione';
 import './index.css';
 
 
